@@ -1,1 +1,2 @@
-This is the first
+This is the first project myself for my course
+
